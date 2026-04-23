@@ -46,7 +46,7 @@ namespace PROG_Pt1_RESUBMISSION
             {
                 return "Safe browsing means avoiding suspicious websites, not downloading unknown files, and checking links before clicking on them.";
             }
-            else if (input.Contains("malware") || input.Contains("hamful"))
+            else if (input.Contains("malware") || input.Contains("harmful"))
             {
                 return "Malware is harmful software that can damage your device or steal your information. Avoid downloading files from unknown sources.";
             }
