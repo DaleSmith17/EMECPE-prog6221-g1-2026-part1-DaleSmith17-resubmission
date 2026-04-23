@@ -46,3 +46,9 @@ GitHub Actions was used for continuous integration so that the project can be bu
 - Microsoft. 2026. Code comments - C# reference. Microsoft Learn. Microsoft explains that triple-slash comments are XML documentation comments read by the compiler.
 - Microsoft. 2025. String.IsNullOrWhiteSpace(String) Method. Microsoft Learn. Microsoft defines this method as checking whether a string is null, empty, or white-space only.
 - Pieterse, H. 2021. The Cyber Threat Landscape in South Africa: A 10-Year Review. The African Journal of Information and Communication, 28. doi:10.23962/10539/32213.
+
+## Youtube video
+Link: https://youtu.be/qceiq-hrEsM
+
+## GitHub Repo
+Link: https://github.com/DaleSmith17/EMECPE-prog6221-g1-2026-part1-DaleSmith17-resubmission
